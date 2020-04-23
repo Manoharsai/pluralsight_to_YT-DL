@@ -1,5 +1,5 @@
 # pluralsight_to_YT-DL
-powershell script to download pluralsight courses by using youtube-dl. The courses contains subtitles, but you can skip them by removing the ```--all-subs``` flag in the [file](https://github.com/rohan5564/pluralsight_to_YT-DL/blob/master/script.ps1).
+powershell script to download pluralsight courses by using youtube-dl. The courses contains subtitles, but you can skip them by removing the ```--all-subs``` flag in the [file](https://github.com/rohan5564/pluralsight_to_YT-DL/blob/master/script.ps1#L29).
 
 The courses must be in a text file placed in the same folder where is the script, and only one should go per line like. e.g :
 
